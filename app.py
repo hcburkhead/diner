@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 # Mock data for sandwich structures
 SANDWICHES = {
-    "Bologna Sandwich": ["Bun Top", "Bologna", "Cheese", "Lettuce", "Mayo", "Bun Bottom"],
+    "Bologna Sandwich": ["Bread Top", "Bologna", "Cheese", "Lettuce", "Mayo", "Bread Bottom"],
     "Beef Burger": ["Bun Top", "Beef", "Cheese", "Tomato", "Lettuce", "Bun Bottom"],
     "Classic PB&J": ["Bread Top", "Peanut Butter", "Jelly", "Bread Bottom"]
 }
